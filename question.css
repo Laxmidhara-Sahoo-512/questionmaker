@@ -1,0 +1,26 @@
+body{
+    background-color:#151B54 ;
+}
+button{
+    display: block;text-align: left;margin-bottom: 20px;border: solid 1px black;
+    font-size: 20px;width: 100%;border-radius: 5px;
+}
+p{
+    font-size: 30px;padding-bottom: 10px;
+}
+#cell{
+    margin: auto;width: 350px;border: solid  1px black;padding-bottom: 20px;margin-top:50px;
+    padding-left: 10px;padding-right: 10px;border-radius: 20px;background-color:white;
+}
+#but{
+    width: fit-content;padding: 5px;background-color: orange;margin: auto;
+}
+#buttons{
+    width: 100%;
+}
+.b:disabled{
+    font-weight: 600;
+}
+.b:hover{
+  background-color: bisque;
+}
